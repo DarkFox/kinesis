@@ -1,0 +1,103 @@
+[kp=]>[kp=mac]
+
+* Thumb clusters
+[bspace]>[rwin]
+[delete]>[lalt]
+[end]>[lctrl]
+[home]>[`]
+[hyphen]>[bspace]
+[lalt]>[hyphen]
+[lctrl]>[=]
+[pdown]>[delete]
+[pup]>[bspace]
+[rctrl]>[hyphen]
+[rwin]>[=]
+
+* Hyper layer thumb clusters
+[kp-bspace]>[rwin]
+[kp-caps]>[kpshift]
+[kp-delete]>[lalt]
+[kp-lctrl]>[kp-lwin]
+[kp-left]>[home]
+[kp-rctrl]>[kp-rwin]
+[kp-right]>[end]
+[kp-rwin]>[kp-rctrl]
+
+* Extra ctrl on `
+[`]>[lctrl]
+
+* Reverse up/down arrows
+[up]>[down]
+[down]>[up]
+
+* Media controls
+[kp-F10]>[prev]
+[kp-F11]>[play]
+[kp-F12]>[next]
+[pause]>[vol+]
+[scroll]>[vol-]
+[prtscr]>[mute]
+
+* Hyper layer *
+[caps]>[kpshift]
+
+* Screen brightness... Somehow
+[vol+]>[pause]
+[vol-]>[scroll]
+
+* hjkl VIM style arrow keys
+[kp-H]>[left]
+[kp4]>[down]
+[kp5]>[up]
+[kp6]>[right]
+
+* Pg up/dn
+[kp-up]>[pdown]
+[kp-down]>[pup]
+
+* Brackets
+{kp-q}>{speed9}{-lshift}{,}{+lshift}
+{kp-w}>{speed9}{-lshift}{.}{+lshift}
+{kp-e}>{speed9}{-lshift}{obrack}{+lshift}
+{kp-r}>{speed9}{-lshift}{cbrack}{+lshift}
+{kp-a}>{-lshift}{9}{+lshift}
+{kp-s}>{-lshift}{0}{+lshift}
+[kp-f]>[cbrack]
+[kp-d]>[obrack]
+
+* yuio Tab nav
+{kp-y}>{speed9}{-lwin}{1}{+lwin}
+{kp7}>{speed9}{-lwin}{9}{+lwin}
+{kp8}>{speed9}{-lshift}{-lwin}{obrack}{+lwin}{+lshift}
+{kp9}>{speed9}{-lshift}{-lwin}{cbrack}{+lshift}{+lwin}
+
+* p Screensaver
+{kpmin}>{speed9}{-kp-lshift}{-rctrl}{delete}{+rctrl}{+kp-lshift}
+
+* nm Focus L/R monitor BTT
+{kp1}>{speed9}{-lwin}{-lshift}{-lalt}{.}{+lalt}{{+lshift}+lwin}
+{kp-n}>{speed9}{-lwin}{-lshift}{-lalt}{,}{+lalt}{+lshift}{+lwin}
+
+* ,. Move to space l/r
+{kp2}>{speed9}{-rctrl}{-lalt}{left}{+rctrl}{+lalt}
+{kp3}>{speed9}{-rctrl}{-lalt}{right}{+rctrl}{+lalt}
+
+* / Expose
+{kpenter1}>{speed9}{-rctrl}{up}{+rctrl}
+
+* ' Quick Menu Bar BTT
+{kp-'}>{speed9}{-rwin}{-lalt}{-kp-lshift}{kp-'}{+lalt}{+rwin}{+kp-lshift}
+
+* \ Maximise Window
+{kp-\}>{-rwin}{-lalt}{-lshift}{\}{+lshift}{+lalt}{+rwin}
+
+* ; Quake Terminal
+{kpplus}>{speed9}{-rctrl}{`}{+rctrl}
+
+* Num row app shortcuts BTT
+{kp-1}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-1}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
+{kp-2}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-2}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
+{kp-3}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-3}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
+{kp-4}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-4}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
+{kp-5}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-5}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
+{kp-6}>{-rwin}{-kp-lwin}{-lalt}{-kp-lshift}{kp-6}{+kp-lshift}{+kp-lwin}{+lalt}{+rwin}
